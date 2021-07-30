@@ -506,7 +506,6 @@ body {
   .about-container > .about-section {
     flex: 1 1 40%;
     padding: 100px 0;
-    background-color: white;
   }
 
   .about-container > .proficiency-section {
